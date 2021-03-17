@@ -5,5 +5,5 @@
 LifeCycle 테스트 실행 영상
 
 결과물
-<img src="![image](https://user-images.githubusercontent.com/79950254/111422183-9c475580-8731-11eb-9d16-63a56b7ad4a4.png)
+<img src="https://user-images.githubusercontent.com/79950254/111422446-1081f900-8732-11eb-8af8-840c19aa3868.png
 " alt="in-class homework 2 result" />
